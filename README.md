@@ -11,7 +11,7 @@ NoraAI is at the forefront of autonomous intelligence, driving innovation in rob
 ## Getting Started
 Clone the repository:
 ```bash
-git clone https://github.com/NoraAI/NoraAI.git
+git clone https://github.com/Norai-Ai/NuroAI-main.git
 
 Community
 Join our TG to connect with the team and other developers.

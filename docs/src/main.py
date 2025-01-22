@@ -9,7 +9,7 @@ def load_models():
     logging.info("AI models loaded successfully.")
 
 def start_nuro_ai():
-    logging.info("Welcome to NuroAI!")
+    logging.info("Welcome to NoraAI!")
     try:
         load_models()
         logging.info("System is ready to drive innovation!")

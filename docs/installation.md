@@ -6,7 +6,7 @@
 ## Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/NuroAI/NuroAI.git
+   git clone https://github.com/NoraAI/NoraAI.git
 
 2. Install dependencies:
 

@@ -1,7 +1,7 @@
-# NuroAI
-![NuroAI Banner](assets/banner.png)
+# NoraAI
+![NoraAI Banner](assets/banner.png)
 
-NuroAI is at the forefront of autonomous intelligence, driving innovation in robotics and AI systems. Our mission is to accelerate the future of autonomy while ensuring ethical and responsible AI practices.
+NoraAI is at the forefront of autonomous intelligence, driving innovation in robotics and AI systems. Our mission is to accelerate the future of autonomy while ensuring ethical and responsible AI practices.
 
 ## Key Features
 - Advanced machine learning models.
@@ -11,7 +11,7 @@ NuroAI is at the forefront of autonomous intelligence, driving innovation in rob
 ## Getting Started
 Clone the repository:
 ```bash
-git clone https://github.com/NuroAI/NuroAI.git
+git clone https://github.com/NoraAI/NoraAI.git
 
 Community
 Join our TG to connect with the team and other developers.
